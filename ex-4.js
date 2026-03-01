@@ -3,18 +3,11 @@
 
 //Exercise #4: What is Expression Start coding here
 130 + 300; // Expression
-console.log(130 + 300);
-let zero = 1000 - 1000; // Expression
+let zero = 1000 - 1000; 
 20 * 120; // Expression
-console.log(20 * 120);
 1000 / 2; // Expression
-console.log(1000 / 2);
-typeof true;  
-console.log(typeof true);
-let name = "John"; // Expression
+typeof true; // Expression
+let name = "John"; 
 3 > 5; // Expression
-console.log(3 > 5);
 10 == 100; // Expression
-console.log(10 == 100);
 200; // Expression
-console.log(200);
