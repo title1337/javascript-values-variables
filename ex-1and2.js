@@ -16,12 +16,9 @@ console.log(storeOpen)
 
 //Exercise #2: Variable Reassignment
 //Start coding here
-let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai"
 address = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641";
 console.log(address);
-const totalPrice = "15000";
 totalPrice = "5000";
 console.log(totalPrice);
-const storeOpen = "1500";
 storeopen = "2500";
 console.log(storeClose);
