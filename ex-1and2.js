@@ -22,5 +22,6 @@ console.log(address);
 const totalPrice = "15000";
 totalPrice = "5000";
 console.log(totalPrice);
-const storeOpen = "2500";
-console.log(storeOpen);
+const storeOpen = "1500";
+storeopen = "2500";
+console.log(storeClose);
