@@ -17,8 +17,5 @@ console.log(storeOpen)
 //Exercise #2: Variable Reassignment
 //Start coding here
 address = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641";
-console.log(address);
-totalPrice = "5000";
-console.log(totalPrice);
-storeopen = "2500";
-console.log(storeClose);
+totalPrice = 5000;
+storeopen = 2500;
